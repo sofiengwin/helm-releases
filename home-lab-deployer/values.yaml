@@ -1,0 +1,5 @@
+deployment:
+  name: home-lab-deploy
+  replicas: 1
+  image: sofiencloud/home-lab-deployer:latest
+  port: 8080

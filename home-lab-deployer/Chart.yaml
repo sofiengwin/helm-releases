@@ -1,0 +1,4 @@
+apiVersion: v2
+name: Home Lab Deploy
+description: A Helm chart for Home Lab Deploy
+version: 0.1.0
